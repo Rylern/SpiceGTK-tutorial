@@ -2,7 +2,7 @@
 
 
 
-One way to work with Linux virtual machines (VM) is to use [Libvirt](https://libvirt.org/) to manage the VM, and [Spice](https://www.spice-space.org/) to interact with the VM. The [Libvirt API](https://libvirt.org/html/index.html) and the [Libvirt Application Development Guide](https://libvirt.org/docs/libvirt-appdev-guide-python/en-US/html/) show how to create an application with Libvirt. Such guide not being present for Spice, I will show in this tutorial how to create a GTK application in C for interacting and controlling a VM.
+One way to work with Linux virtual machines (VM) is to use [Libvirt](https://libvirt.org/) to manage the VM, and [Spice](https://www.spice-space.org/) to interact with the VM. The [Libvirt API](https://libvirt.org/html/index.html) and the [Libvirt Application Development Guide](https://libvirt.gitlab.io/libvirt-appdev-guide-python/) show how to create an application with Libvirt. Such guide not being present for Spice, I will show in this tutorial how to create a GTK application in C for interacting and controlling a VM.
 
 To follow this tutorial, you will need:
 
